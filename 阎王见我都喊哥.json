@@ -1,0 +1,21 @@
+{
+    "urls": [
+                          
+        {
+            "url": "http://www.饭太硬.com/tv/",
+            "name": "线路1"
+        },
+        {
+            "url": "http://ok321.top/tv",
+            "name": "线路2"
+        },
+        {
+            "url": "https://gitee.com/wu15935/csg/raw/master/sdfg.json",
+            "name": "线路3"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "线路4"             
+        }
+    ]
+}
